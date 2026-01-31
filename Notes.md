@@ -14,4 +14,6 @@ A commit saves changes with a message.
  ## Next small goal
 - Learn how to add files
 - Understand commit vs repository
+- Learn what branches are
+
 
