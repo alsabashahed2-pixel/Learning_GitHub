@@ -11,3 +11,9 @@ This repository is for learning GitHub step by step.
 
 ## Status
   Learning in progress
+
+## Repository Structure
+
+- README.md : Project description
+- Notes.md : My learning notes about GitHub
+
