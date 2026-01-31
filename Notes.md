@@ -10,3 +10,8 @@ A commit saves changes with a message.
 - Created a repository
 - Edited README
 - Made my first real commit
+
+ ## Next small goal
+- Learn how to add files
+- Understand commit vs repository
+
